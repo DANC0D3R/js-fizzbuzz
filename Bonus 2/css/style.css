@@ -52,3 +52,16 @@ h1{
 
     font-size: 1.5rem;
 }
+
+/* COLORI */
+.red{
+    background-color: #F0466F;
+}
+
+.green{
+    background-color:#0CD6A1;
+}
+
+.yellow{
+    background-color:#FFD166;
+}

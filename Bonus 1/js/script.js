@@ -2,7 +2,7 @@
 const container = document.getElementById('container');
 
 // Ciclo che crea il quadrato con il numero per 100 volte
-for (let i = 0; i <= 99; i++){
+for (let i = 1; i <= 100; i++){
     // Creo il quadrato con il numero
     const square = document.createElement('div');
 

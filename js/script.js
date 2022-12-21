@@ -1,5 +1,5 @@
 // Ciclo che si ripete per 100 volte
-for(let i = 0; i <= 99; i++){
+for(let i = 1; i <= 100; i++){
     // Il numero è divisibile sia per 3 che per 5
     if((i % 3 == 0) && (i % 5 == 0)){
         console.log('FizzBuzz');
